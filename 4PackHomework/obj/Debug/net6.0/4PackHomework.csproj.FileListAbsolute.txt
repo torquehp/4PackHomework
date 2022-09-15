@@ -1,0 +1,15 @@
+C:\Users\DREAMLAND\Desktop\4PackHomework\bin\Debug\net6.0\4PackHomework.exe
+C:\Users\DREAMLAND\Desktop\4PackHomework\bin\Debug\net6.0\4PackHomework.deps.json
+C:\Users\DREAMLAND\Desktop\4PackHomework\bin\Debug\net6.0\4PackHomework.runtimeconfig.json
+C:\Users\DREAMLAND\Desktop\4PackHomework\bin\Debug\net6.0\4PackHomework.dll
+C:\Users\DREAMLAND\Desktop\4PackHomework\bin\Debug\net6.0\4PackHomework.pdb
+C:\Users\DREAMLAND\Desktop\4PackHomework\obj\Debug\net6.0\4PackHomework.csproj.AssemblyReference.cache
+C:\Users\DREAMLAND\Desktop\4PackHomework\obj\Debug\net6.0\4PackHomework.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DREAMLAND\Desktop\4PackHomework\obj\Debug\net6.0\4PackHomework.AssemblyInfoInputs.cache
+C:\Users\DREAMLAND\Desktop\4PackHomework\obj\Debug\net6.0\4PackHomework.AssemblyInfo.cs
+C:\Users\DREAMLAND\Desktop\4PackHomework\obj\Debug\net6.0\4PackHomework.csproj.CoreCompileInputs.cache
+C:\Users\DREAMLAND\Desktop\4PackHomework\obj\Debug\net6.0\4PackHomework.dll
+C:\Users\DREAMLAND\Desktop\4PackHomework\obj\Debug\net6.0\refint\4PackHomework.dll
+C:\Users\DREAMLAND\Desktop\4PackHomework\obj\Debug\net6.0\4PackHomework.pdb
+C:\Users\DREAMLAND\Desktop\4PackHomework\obj\Debug\net6.0\4PackHomework.genruntimeconfig.cache
+C:\Users\DREAMLAND\Desktop\4PackHomework\obj\Debug\net6.0\ref\4PackHomework.dll
